@@ -1,0 +1,11 @@
+{
+  "compilerOptions" : {
+	"target": "es6",
+	"pretty": true,
+	"outDir": "./build" 
+  },
+  "files": [
+	"interface.ts"
+  ],
+  "excluse": ["node_modules"]
+}
