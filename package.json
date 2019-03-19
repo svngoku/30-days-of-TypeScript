@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "30 days of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svngoku/30-days-of-TypeScript.git"
+  },
+  "author": "svngoku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svngoku/30-days-of-TypeScript/issues"
+  },
+  "homepage": "https://github.com/svngoku/30-days-of-TypeScript#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1"
+  }
+}

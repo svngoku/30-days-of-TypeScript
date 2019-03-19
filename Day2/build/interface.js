@@ -1,9 +1,9 @@
 /* function to show book */
 let showBook = (book) => console.log(`
 		Titre: ${book.title} 
-		Resumer: ${book.resume} '\n' 
+		Resumer: ${book.resume} '\n'
 		Nombre de pages: ${book.page}
-	`);
+`);
 /*	Create a new Book */
 let JungleBook = {
     title: "Le livre de la Jungle",
