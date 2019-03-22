@@ -1,11 +1,11 @@
-function DiagonalDifference(arr:Array<Array<number>>): number {
+function DiagonalDifference(arr:Array<Array<number>>): void {
     let len:number = arr.length, diag1 = 0, diag2 = 0;
-    let diag:number = arr.length - 1;
     for(let i = 0 ; i < len; i++) {
      diag1 += arr[i][i];
-     diag2 += arr[i][diag];
-     diag--;
+     diag2 += arr[i][arr.length - 1 - i];
     }
-    return Math.abs(diag2 - diag1);
+    console.log(`> La somme de la première diagonal est ${diag1} \n> la deuxième diagonal : ${diag2} 
+    `,  `\n>La différence est égal à ${Math.abs(diag1 - diag2)}`);
+    
 }
 console.log(DiagonalDifference([[11, 2, 4], [4,5,6], [10,8,-12]]))
