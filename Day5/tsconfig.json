@@ -1,0 +1,13 @@
+{
+    "compilerOptions" : {
+      "target": "es6",
+      "pretty": true,
+      "outDir": "./build" 
+    },
+    "files": [
+      "Student.ts",
+      "IStudent.ts"
+    ],
+    "excluse": ["node_modules"]
+  }
+  
