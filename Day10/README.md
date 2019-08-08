@@ -1,6 +1,6 @@
 # Introduction aux Interfaces en TypeScript
 
-TypeScript helps us keep a contract with our vales by allowing us to define fine-grained type checking for them. Interfaces is the primary mechanism in TypeScript to accomplish that.
+TypeScript nous aide à conserver un contrat avec nos valeurs en nous permettant de définir une vérification de type fine. Les interfaces sont le mécanisme principal dans TypeScript pour accomplir cela.
 
 ## Example of an interface
 
