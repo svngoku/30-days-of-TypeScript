@@ -17,6 +17,6 @@ interface Car {
 
 ```
 
-Si nous tentons de de définir un objects avec des props manquantes, hg
+Si nous essayons de définir des objets avec des propriétés manquantes, des propriétés supplémentaires ou des propriétés d’un type incorrect, le compilateur TypeScript se plaindra et nous dira exactement ce qui ne va pas avec notre définition d'une ```Voiture (Car)```
 
 * NB: Nous pouvons définir une propriétée optionnelle dans notre interface avec l'opérateur ```Elvis``` (```?```)
