@@ -14,8 +14,6 @@ let { train, bike, car , bus  } = Transport;
 let { basketball , soccer, football } = Sport;
 
 
-
-
 console.log(JSON.stringify({
     Courses ,
     Transport,
