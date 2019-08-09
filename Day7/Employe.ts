@@ -17,7 +17,7 @@ export default class Employe extends Person {
     
     // find method , return a new employe by the name
     find(name: string) {
-        // cn be a AJAX request to find an employee from a db
+        // can be a AJAX request to find an employee from a db
         return new Employe(name, 6);
     }
     

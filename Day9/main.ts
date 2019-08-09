@@ -11,7 +11,7 @@ animals = 'Dog'; // ✔
 animals = 'Dragon'; // ✔
 animals = 'Alligator' // ✔
 
-animals = 'Elephant'; // ✖ Type '"Elephant"' is not assignable to type 'Animal'.
+/* animals = 'Elephant';*/ // ✖ Type '"Elephant"' is not assignable to type 'Animal'.
 
 console.log(animals)
 
