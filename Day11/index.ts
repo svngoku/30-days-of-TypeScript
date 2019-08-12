@@ -1,0 +1,3 @@
+// @ts-check
+
+// unknow subject
