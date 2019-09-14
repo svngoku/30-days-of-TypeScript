@@ -1,4 +1,4 @@
-# Les Génériques
+# Les Génériques en profondeurs ( Generic in Deep)
 
 Les génériques nous donne la possibilité de manipuler nos fonctions / nos classes avec des types différents.
 
