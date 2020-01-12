@@ -15,6 +15,7 @@ function tryGetFirstElement<T>(arr?: T[]) {
     }
     return result;
 }
+
 const log = console.log
 
 

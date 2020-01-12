@@ -1,11 +1,14 @@
 # 30 days of TypeScript
 
 ## Qu'est ce que TypeScript
+
 `Typescript` est un langage de programmation open-source développé et maintenu par Microsoft. Il s'agit d'un sur-ensemble (sucre syntaxique) strict de JavaScript, qui ajoute un typage statique optionnel au langage.
 
 TypeScript est conçu pour le développement d'applications volumineuses et la transcompilation en JavaScript.Comme TypeScript est un sur-ensemble de JavaScript, les programmes JavaScript existants sont également des programmes TypeScript valides. TypeScript peut être utilisé pour développer des applications JavaScript pour l'exécution à la fois côté client et côté serveur (Node.js).
 
-Il permet un typage statique optionnel des variables et des fonctions, la création de classes et d'interfaces, l'import de modules, tout en conservant l'approche non-contraignante de JavaScript. Il supporte la spécification ECMAScript 6. 
+Il permet un typage statique optionnel des variables et des fonctions, la création de classes et d'interfaces, l'import de modules, tout en conservant l'approche non-contraignante de JavaScript. Il supporte la spécification ECMAScript 6.
+
+TypeScript est un parfait allié pour les structures de données et la cohérence sur les données.
 
 ## Fonctionnalités
 
