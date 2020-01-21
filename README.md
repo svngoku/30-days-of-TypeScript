@@ -87,5 +87,12 @@ Avec la définition de valeur :
 
 ```ts
 enum Color { Red = 1, White = 3 , Blue = 2 };
-
 ```
+
+## Ressources
+
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started/)
+
+- [Typescript lang](https://www.typescriptlang.org/docs/home.html)
+
+- [TypeScript 3 Fundamentals, v2](https://frontendmasters.com/courses/typescript-v2/)
