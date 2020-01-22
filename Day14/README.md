@@ -9,3 +9,11 @@ type Salary = {
     value: Number,
 };
 ```
+
+## Cohercion de type
+
+Self-referencing for type doesn't work 
+
+```ts
+type newType = Number | String
+```
