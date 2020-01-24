@@ -1,3 +1,4 @@
+// @ts-check
 /**
  * @param target 
  */
@@ -11,4 +12,4 @@ class Person {
         public readonly firstname : String, 
         public readonly lastname: String
     ){}
-}
+};

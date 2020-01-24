@@ -89,10 +89,43 @@ Avec la définition de valeur :
 enum Color { Red = 1, White = 3 , Blue = 2 };
 ```
 
+### Les décorateurs
+
+Les décorarteurs sont des éléments `@MyDecorator`
+
+## La version 3.7.3 de Typescript
+
+Cette version offre 12 nouvelles améliorations sur la version précendente dont:
+
+* Le chainage optionel
+
+* Nullish Coalescing
+
+* Assertion Function
+
+* Meilleur support du type `never` - Retournant une fonction
+
+* (More) Recursive Type Aliases
+
+* Les tags `--declaration`et `--allowJs` dans le fichier `ts-config`
+
+* Le flag `useDefineForClassFields` et la propriété de modification `declare`
+
+* Build-Free Editing with Project References
+
+* Uncalled Function Checks
+* `//@ts-nocheck` dans les fichiers `.ts`
+* Semicolon Formatter Option
+* Breaking Changes
+    * DOM Changes
+    * Function Truthy Checks
+    * Local and Imported Type Declarations Now Conflict
+    * API Changes
+
 ## Ressources
 
-- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started/)
+-[TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started/)
 
-- [Typescript lang](https://www.typescriptlang.org/docs/home.html)
+-[Typescript lang](https://www.typescriptlang.org/docs/home.html)
 
-- [TypeScript 3 Fundamentals, v2](https://frontendmasters.com/courses/typescript-v2/)
+-[TypeScript 3 Fundamentals, v2](https://frontendmasters.com/courses/typescript-v2/)
